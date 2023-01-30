@@ -1,0 +1,4 @@
+7 mbps
+9 mbps
+11 mbps
+24 mbps
